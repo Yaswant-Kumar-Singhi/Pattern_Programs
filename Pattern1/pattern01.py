@@ -1,4 +1,11 @@
 
+"""
+Pattern
+1 1 1
+1 1 1
+1 1 1
+
+"""
 
 def pattern01(n):
     for i in range (0,n):
