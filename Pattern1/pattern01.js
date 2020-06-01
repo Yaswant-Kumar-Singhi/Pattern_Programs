@@ -1,3 +1,11 @@
+/*
+Pattern:
+1 1 1
+1 1 1
+1 1 1
+*/
+
+
 function pattern01(n){
   var i,j;
   for(i=0;i<n;i++){
