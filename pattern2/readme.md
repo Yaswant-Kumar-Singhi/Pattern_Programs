@@ -19,6 +19,8 @@
 
 ```
 
-
+* The approach is we need o print first element from first row , then first two elements from second row and so on
+* As earlier explain let us consider i to be row and j to be column
+* so we need to run a outer loop which will have a inner loop to print the result
 
 
