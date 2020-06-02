@@ -7,4 +7,5 @@
 1234
 12345
 ```
-
+* The above series looks like right angle.
+* 
