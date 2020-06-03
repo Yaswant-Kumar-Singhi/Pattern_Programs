@@ -10,6 +10,7 @@ def num(a):
             # values changing acc. to outer loop
             #printing
             print(num, end=" ") 
+             # incrementing number at each column
             num = num + 1 
         print("\r") 
 
