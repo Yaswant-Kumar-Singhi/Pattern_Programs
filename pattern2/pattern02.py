@@ -5,6 +5,7 @@ def num(a):
     for i in range(0, a): 
         #re assigning num
         num = 1
+        #inner loop
         for k in range(0, i+1): 
             print(num, end=" ") 
             num = num + 1 
