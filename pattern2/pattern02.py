@@ -1,4 +1,5 @@
 def num(a): 
+    # initialising starting number
     num = 1
     for i in range(0, a): 
         num = 1
