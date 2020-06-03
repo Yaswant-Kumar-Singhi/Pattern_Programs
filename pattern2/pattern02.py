@@ -6,7 +6,9 @@ def num(a):
         #re assigning num
         num = 1
         #inner loop
-        for k in range(0, i+1): 
+        for k in range(0, i+1):
+            # values changing acc. to outer loop
+            #printing
             print(num, end=" ") 
             num = num + 1 
         print("\r") 
